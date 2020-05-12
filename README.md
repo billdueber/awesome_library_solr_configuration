@@ -1,4 +1,4 @@
-# Aggregated Library Solr Configs
+# Awesome Library Solr Configuration
 
 Library bibliographic data (via MARC or whatever) offer a strange set of characteristics -- some great, granular
 information, some important atrributes thrown willy-nilly into free-text fields, standards that have changed
